@@ -1,3 +1,14 @@
+# ToDo-приложение, позволяющее управлять текущим списком дел
+
+## Что должно быть в интерфейсе:
+* Поле для ввода новой задачи
+* Списки задач:
+  * общий
+  * невыполненных задач
+  * выполненных задач
+* Количество оставшихся задач
+* Очистка выполненных
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
