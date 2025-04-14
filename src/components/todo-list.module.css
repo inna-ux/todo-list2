@@ -1,0 +1,32 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    align-items: center;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    align-items: stretch;
+  }
+  .div {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+  }
+  .text {
+    text-align: start;
+    color: #8585ad;
+    opacity: 0.4;
+  }
+  li {
+    list-style: none;
+  }
+  .div_btn {
+    display: flex;
+    align-items: center;
+  }
+.btn_div {
+  display: flex;
+}
